@@ -1,7 +1,6 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "lovecalculator-app",
+  "author": "Raul Pereira <raul.pereira@gmail.com>",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -47,5 +46,5 @@
       "locator": "ios"
     }
   ],
-  "description": "lovecalculator-app: An Ionic project"
+  "description": "LoveCalculator App.: An Ionic 2 project"
 }
