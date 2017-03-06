@@ -1,6 +1,6 @@
 {
   "name": "LoveCalculator App.",
-  "short_name": "Love Calc App.",
+  "short_name": "LoveCalc App.",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [
